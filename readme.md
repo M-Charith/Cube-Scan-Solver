@@ -1,6 +1,4 @@
-Here's the revised `README.md` without the license section:
 
-```md
 # Cube Scan Solver
 
 ## Overview
